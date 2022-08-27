@@ -1,0 +1,15 @@
+VIII. Inserte las partes que faltan para que el código CSS sea correcto.
+```
+<style>
+p 
+  color red;
+
+</style>
+```
+correcto :
+
+<style>
+    p{
+        color : red;
+    }
+</style>
